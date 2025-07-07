@@ -33,11 +33,11 @@ module "account_request_02" {
 
   control_tower_parameters = {
     AccountEmail              = "sakalak+afttest2@amazon.com"
-    AccountName               = "AFT01"
+    AccountName               = "AFT02"
     ManagedOrganizationalUnit = "Sandbox (ou-jl8v-kolgi4le)" 
     SSOUserEmail              = "sakalak+afttest2@amazon.com"
     SSOUserFirstName          = "AFT"
-    SSOUserLastName           = "001"
+    SSOUserLastName           = "002"
   }
 
   account_tags = {
