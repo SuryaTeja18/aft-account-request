@@ -5,7 +5,7 @@ module "account_request_01" {
     AccountEmail              = "sakalak+afttest1@amazon.com"
     AccountName               = "AFT01"
     ManagedOrganizationalUnit = "Sandbox (ou-jl8v-kolgi4le)" 
-    SSOUserEmail              = "sakalak+aft001@amazon.com"
+    SSOUserEmail              = "sakalak+afttest1@amazon.com"
     SSOUserFirstName          = "AFT"
     SSOUserLastName           = "001"
   }
